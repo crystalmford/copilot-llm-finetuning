@@ -1,0 +1,9 @@
+Candidate 1: ['Return: Items can be returned within 30 days with proof of purchase.']
+Reward Score: 1
+---
+Candidate 2: refunds: The item Item was sold in the United States is unrefunded.
+Reward Score: 1
+---
+Candidate 3: A). (I'm the parent company of a social media manager, don't even get this)
+Reward Score: 1
+---

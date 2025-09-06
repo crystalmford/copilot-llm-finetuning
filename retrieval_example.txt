@@ -1,0 +1,2 @@
+Query: How long is the warranty on accessories?
+Retrieved Context: ['Warranty: Accessories are covered for 6 months.']
