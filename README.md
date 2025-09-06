@@ -34,12 +34,12 @@ It illustrates end-to-end workflows for **LLM fine-tuning, evaluation, and align
 
 ---
 
-## Visualization
+## Results
 
-Below is an example visualization from the notebook (model performance comparison):
+### Training Loss
+The fine-tuned model shows a decreasing training loss curve.
 
-![Evaluation Results](results/eval_plot.png)
-
+![Training Loss Curve](loss_curve.png)
 ---
 
 ## How to Run
